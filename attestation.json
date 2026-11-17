@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.chronobox",
+  "repo": "NDesumeur/neodex-plugin-chronobox-phone",
+  "version": "1.0.0",
+  "sha256": "5c0c00947f255f9b9328357be56656a4d2bb033cbb209ab18e358751ffdd3753",
+  "approvedAt": "2026-11-17T18:40:02.707Z",
+  "neobase": ">=4.0.0",
+  "signature": "uTU8S4hW1L68sBuqYEEs6mq3/FsQ7VRU8IPlnUEgUtAcO/eql4tHU96ZGvBCwdpB9eo2VR8zDLKh2fNngp45Dw=="
+}
